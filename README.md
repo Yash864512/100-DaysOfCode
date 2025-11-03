@@ -25,6 +25,9 @@ This repository is actively maintained. My progress is tracked by project day:
 * **Day 3:** Treasure Island
 * **Day 4:** Rock Paper Scissors
 * **Day 5:** Password Generator
+* **Day 6:** Reeborg's World
+* **Day 7:** HangMan Game
+* **Day 8:** Caesar Cipher
 
 
 ## Course Details
