@@ -20,14 +20,16 @@ The curriculum covers a wide spectrum of Python development, including:
 
 This repository is actively maintained. My progress is tracked by project day:
 
-* **Day 1:** Band Name Generator
-* **Day 2:** Tip Calculator
-* **Day 3:** Treasure Island
-* **Day 4:** Rock Paper Scissors
-* **Day 5:** Password Generator
-* **Day 6:** Reeborg's World
-* **Day 7:** HangMan Game
-* **Day 8:** Caesar Cipher
+* **Day 1:** [Band Name Generator](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day001/project.py)
+* **Day 2:** [Tip Calculator](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day002/project.py)
+* **Day 3:** [Treasure Island](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day003/project.py)
+* **Day 4:** [Rock Paper Scissors](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day004/Project/RockPaperScissors.py)
+* **Day 5:** [Password Generator](https://github.com/Yash864512/100-DaysOfCode/tree/master/Day005/Project)
+* **Day 6:** [Reeborg's World](https://github.com/Yash864512/100-DaysOfCode/tree/master/Day006/Code)
+* **Day 7:** [HangMan Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day007/Project/HangMan.py)
+* **Day 8:** [Caesar Cipher](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day008/Project/Caesar_Cipher.py)
+* **Day 9:** [Secret Auction](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day009/Project/Secret_Auction.py)
+* **Day 10:** [Calculator](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day010/Project/Calculator.py)
 
 
 ## Course Details
