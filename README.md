@@ -32,6 +32,8 @@ This repository is actively maintained. My progress is tracked by project day:
 * **Day 10:** [Calculator](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day010/Project/Calculator.py)
 * **Day 11:** [Black Jack Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day011/Capstone_Project/BlackJack.py)
 * **Day 12:** [Number Guessing Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day012/Project/NumberGuessingGame.py)
+* **Day 13:** Handling Bugs
+* **Day 14:** [Higher Lower Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day014/Project/HigherLowerGame.py)
 
 
 ## Course Details
