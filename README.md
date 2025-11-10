@@ -34,6 +34,7 @@ This repository is actively maintained. My progress is tracked by project day:
 * **Day 12:** [Number Guessing Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day012/Project/NumberGuessingGame.py)
 * **Day 13:** Handling Bugs
 * **Day 14:** [Higher Lower Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day014/Project/HigherLowerGame.py)
+* **Day 15:** [Coffee Machine](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day015/Project/CoffeeMachine.py)
 
 
 ## Course Details
