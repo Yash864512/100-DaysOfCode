@@ -18,7 +18,8 @@ The curriculum covers a wide spectrum of Python development, including:
 
 ## Progress Tracker
 
-This repository is actively maintained. My progress is tracked by project day:
+This repository is actively maintained. My progress is tracked by project day:  <br>
+
 ** <-------------------- Beginner Level Projects --------------------> **
 * **Day 1:** [Band Name Generator](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day001/project.py)
 * **Day 2:** [Tip Calculator](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day002/project.py)
@@ -33,7 +34,8 @@ This repository is actively maintained. My progress is tracked by project day:
 * **Day 11:** [Black Jack Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day011/Capstone_Project/BlackJack.py)
 * **Day 12:** [Number Guessing Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day012/Project/NumberGuessingGame.py)
 * **Day 13:** Handling Bugs
-* **Day 14:** [Higher Lower Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day014/Project/HigherLowerGame.py)
+* **Day 14:** [Higher Lower Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day014/Project/HigherLowerGame.py)  <br>
+
 ** <------------------ Intermediate Level Projects ------------------> **
 * **Day 15:** [Coffee Machine](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day015/Project/CoffeeMachine.py)
 
