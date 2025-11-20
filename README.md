@@ -40,6 +40,7 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 15:** [Coffee Machine](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day015/Project/CoffeeMachine.py)
 * **Day 16:** [OOP Coffee Machine](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day016/Project/main.py)
 * **Day 17:** [The Quiz Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day017/Project/main.py)
+* **Day 18:** [Hirst Painting](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day018/Project/Hirst_Painting.py)
 
 
 ## Course Details
